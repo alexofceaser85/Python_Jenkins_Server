@@ -22,6 +22,7 @@ warning: Check: missing meta-data: either (author and author_email) or (maintain
 creating lecture25-1.0.dev0
 creating lecture25-1.0.dev0/lecture25.egg-info
 copying files to lecture25-1.0.dev0...
+copying server.py -> lecture25-1.0.dev0
 copying setup.py -> lecture25-1.0.dev0
 copying lecture25.egg-info/PKG-INFO -> lecture25-1.0.dev0/lecture25.egg-info
 copying lecture25.egg-info/SOURCES.txt -> lecture25-1.0.dev0/lecture25.egg-info
