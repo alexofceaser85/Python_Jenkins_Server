@@ -5,7 +5,7 @@ pipeline {
 		    steps {
 		        // we need this stage to setup the venv
 		        // and install needed packages (e.g., pybuilder itself)
-			    sh ''' python3 -m venv $WORKSPACE/jenkins_venv
+			    sh ''' python3 -m venv $WORKSPACE/jenkins_venv '''
 			    . $WORKSPACE/jenkins_venv/bin/activate
 			    cat nonexistent_file.txt
 			    pip install pybuilder
