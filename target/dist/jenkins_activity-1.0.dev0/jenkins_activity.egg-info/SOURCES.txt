@@ -1,0 +1,7 @@
+setup.py
+jenkins_activity.egg-info/PKG-INFO
+jenkins_activity.egg-info/SOURCES.txt
+jenkins_activity.egg-info/dependency_links.txt
+jenkins_activity.egg-info/namespace_packages.txt
+jenkins_activity.egg-info/top_level.txt
+jenkins_activity.egg-info/zip-safe

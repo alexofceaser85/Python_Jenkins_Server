@@ -1,0 +1,35 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running sdist
+running egg_info
+creating lecture25.egg-info
+writing lecture25.egg-info/PKG-INFO
+writing dependency_links to lecture25.egg-info/dependency_links.txt
+writing namespace_packages to lecture25.egg-info/namespace_packages.txt
+writing top-level names to lecture25.egg-info/top_level.txt
+writing manifest file 'lecture25.egg-info/SOURCES.txt'
+reading manifest file 'lecture25.egg-info/SOURCES.txt'
+writing manifest file 'lecture25.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: Check: missing required meta-data: url
+
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating lecture25-1.0.dev0
+creating lecture25-1.0.dev0/lecture25.egg-info
+copying files to lecture25-1.0.dev0...
+copying setup.py -> lecture25-1.0.dev0
+copying lecture25.egg-info/PKG-INFO -> lecture25-1.0.dev0/lecture25.egg-info
+copying lecture25.egg-info/SOURCES.txt -> lecture25-1.0.dev0/lecture25.egg-info
+copying lecture25.egg-info/dependency_links.txt -> lecture25-1.0.dev0/lecture25.egg-info
+copying lecture25.egg-info/namespace_packages.txt -> lecture25-1.0.dev0/lecture25.egg-info
+copying lecture25.egg-info/top_level.txt -> lecture25-1.0.dev0/lecture25.egg-info
+copying lecture25.egg-info/zip-safe -> lecture25-1.0.dev0/lecture25.egg-info
+Writing lecture25-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'lecture25-1.0.dev0' (and everything under it)
